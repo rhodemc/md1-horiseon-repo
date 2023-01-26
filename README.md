@@ -1,7 +1,7 @@
 # Horiseon - Online Marketing Tactics - Refactored
 A refactored homepage for Horiseon with educational information about online marketing.
 
-[This is an external link to github.io](https://rhodemc.github.io/md1-horiseon-repo/)
+[This is an external link to Horiseon](https://rhodemc.github.io/md1-horiseon-repo/)
 
 ## Description
 
@@ -19,15 +19,13 @@ N/A
 
 To enjoy this site, use the links at the top right of the page to choose which topic you'd like to learn about. Each section will provide basic knowledge on the subject matter.
 
-```md
-    ![Horiseon Homepage](assets/images/horiseon-homepage.png)
-    ```
+![Horiseon Homepage](assets/images/horiseon-homepage.png)
 
 ## Credits
 
 The starter code was written by Xandromus, pulled from a repo titled 'urban-octo-telegram'.
 
-[This is an external link to github.com](https://github.com/coding-boot-camp/urban-octo-telegram)
+[This is an external link to urban-octo-telegram](https://github.com/coding-boot-camp/urban-octo-telegram)
 
 ## License
 
