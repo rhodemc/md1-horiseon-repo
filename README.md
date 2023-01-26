@@ -1,19 +1,13 @@
-# Code Refactor Starter Code
-
-# prework-study-guide
-A study guide for UO Coding Bootcamp pre-work.
-
-# Prework Study Guide Webpage
+# Horiseon - Online Marketing Tactics - Refactored
+A refactored homepage for Horiseon with educational information about online marketing.
 
 ## Description
 
-I was motivated to create the Prework Study Guide Webpage because it will be a useful reference guide, not only during Bootcamp, but throughout my career.
+I was motivated to refactor code for Horiseon because I feel their site has useful information for those who are interested in online marketing.
 
-I built the project because I wanted a singular space to collect all of my notes, instead of having them in various locations.
+Having a singular site for online marketing info allows for ease of use and quick reference. It's a great starting point for those who want to learn more.
 
-Having a singular site for my notes creates ease of use and quick reference, solving potential organizational issues.
-
-Shown on the completed webpage, I learned basic coding vocabulary and basic form and function of HTML, CSS, Git and JavaScript code.
+When using the refactored site, links now function properly, text is easier to read and alt tags for images can be found. A deeper dive into code will show updated semantics and a condensed, logical CSS stylesheet.
 
 ## Installation
 
@@ -21,11 +15,11 @@ N/A
 
 ## Usage
 
-To use this Prework Study Guide, you can review the notes in each section: HTML, CSS, Git and JavaScript. For suggestions on where to start, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). In the console panel, you will see a list of topics from our prework modules along with a random suggestion on which topic to study first.
+To enjoy this site, use the links at the top right of the page to choose which topic you'd like to learn about. Each section will provide basic knowledge on the subject matter.
 
 ## Credits
 
-N/A
+The starter code was written by Xandromus, pulled from a repo titled 'urban-octo-telegram'.
 
 ## License
 
